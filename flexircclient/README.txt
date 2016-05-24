@@ -40,5 +40,3 @@ FLEX IRC CLIENT HISTORY
 Aug, 2007 v0.1 Initial Release
 This is the initial release of the Flex IRC Client. 
 
-KNOWN ISSUES
-===============
